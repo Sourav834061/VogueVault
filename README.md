@@ -1,7 +1,8 @@
 VogueVault E-Commerce Website
 
 
-Overview
+Overview :-
+
 This is a modern E-Commerce website built using ReactJS for the frontend and styled with Tailwind CSS. The website features pages for different collections, including Men's, Women's, and Kids' sections, along with filtering options based on categories and types for a seamless shopping experience.
 
 Features
